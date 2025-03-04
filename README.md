@@ -2,10 +2,10 @@
 <h4 align="left">I'm Lukas</h4>
 Discord <b>@iamLukas.</b><br>
 <br>
-<a href="https://github.com/lukas200301/">
+<a href="https://github-readme-stats.vercel.app/api?username=Lukas200301&show_icons=true&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lukas200301&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/lukas200301/">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas200301&layout=donut&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas200301&layout=donut&theme=dark" />
 </a> 
 
