@@ -1,5 +1,12 @@
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm Lukas</h4>
-Discord @iamlukas.<br>
+Discord <b>@iamLukas.</b><br>
 <br>
-<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Lukas200301" alt="Lukas" /> </p>
+<a href="https://github.com/lukas200301/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lukas200301&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/lukas200301/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas200301&layout=donut&theme=dark" />
+</a> 
+
+<p align="left"> <img src="https://api.visitorbadge.io/api/VisitorHit?user=Lukas200301&labelColor=%23313131&countColor=%2353a766" alt="Visitors" /> </p>
