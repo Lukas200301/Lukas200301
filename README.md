@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm Lukas</h4>
 Discord <b>@iamLukas.</b><br>
-<a href="https://lukas200301.github.io/index.html">Check out my portfolio</a>
+<a href="https://lukas200301.github.io/index.html">Check out my Website</a>
 </b><br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=Lukas200301&show_icons=true&theme=dark">
