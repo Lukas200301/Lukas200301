@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://discord.com/users/364118506460938250"><img src="https://lanyard.cnrad.dev/api/364118506460938250?theme=dark&bg=0c1222&borderRadius=18px&hideDiscrim=true&idleMessage=Nothing%20live%20right%20now%20%E2%80%94%20probably%20building%20the%20next%20tool." width="49.3%" alt="Live Discord presence" /></a>
-  <a href="https://lukas200301.github.io"><img src="./assets/now.svg" width="49.3%" alt="lsh now: live status from Discord, the same feed as the now-playing pill on my site" /></a>
+  <a href="https://lukas200301.github.io/projects/"><img src="https://raw.githubusercontent.com/Lukas200301/github-stats/master/generated/recent.svg" width="49.3%" alt="Recently pushed repositories" /></a>
 </p>
 
 <br />
